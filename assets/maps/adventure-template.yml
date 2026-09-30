@@ -1,0 +1,24 @@
+height: 505
+width: 710
+regions:
+  - href: "#2-dice-chamber"
+    title: "Dice Chamber"
+    points:
+      - [42, 255]
+      - [320, 254]
+      - [320, 463]
+      - [43, 464]
+  - href: "#1-entrance-hall"
+    title: "Entrance Hall"
+    points:
+      - [670, 255]
+      - [671, 462]
+      - [393, 464]
+      - [391, 255]
+  - href: "#3-scriptorium"
+    title: "Scriptorium"
+    points:
+      - [462, 44]
+      - [671, 43]
+      - [671, 186]
+      - [460, 184]

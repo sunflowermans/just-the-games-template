@@ -1,8 +1,25 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Just the Games Template
+description: A starter template for hosting interactive tabletop RPG references with Just the Games.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://games.puzzledungeon.com
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/sunflowermans/just-the-games-template
+  Live Example: https://games.puzzledungeon.com/
+
+# documents are under /docs
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-jtd-toc-nav # headers in the nav bar
+  - jekyll-dice-tray # dice tray widget
+  - jekyll-hover-popup # preview popup windows for internal links
+  - jekyll-image-links # hyperlinked maps
+  - rpg-callouts # additional callout formatting options
+  - dark-dungeons-theme # dark overlay for the default theme
