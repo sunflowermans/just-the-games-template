@@ -13,11 +13,11 @@ More specifically, the created site:
 - includes dice rolling, hover previews, clickable maps, TOC navigation, and RPG callouts
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
 
-See a live example at [Just the Games](https://games.puzzledungeon.com/), or browse the [Make Your Own](/docs/make-your-own/) guides in this template to learn how to write adventures and rules in Markdown.
+See a live example at [games.puzzledungeon.com](https://games.puzzledungeon.com/), or browse the [Make Your Own](/docs/make-your-own/) guides in this template to learn how to write adventures and rules in Markdown.
 
 To get started with creating a site, simply:
 
-1. click "[use this template]" to create a GitHub repository
+1. click "[use this template](https://github.com/sunflowermans/just-the-games-template/generate)" to create a GitHub repository
 2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/sunflowermans/just-the-games-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.

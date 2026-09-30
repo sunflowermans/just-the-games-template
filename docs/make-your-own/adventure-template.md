@@ -39,7 +39,7 @@ Art by **[Gordy](https://gordyh.itch.io/)**
 
 <a href="/assets/images/adventure-template/tavern-quest-giver.png" target="_blank"><img src="/assets/images/adventure-template/tavern-quest-giver.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
-A nervous patron hires the party to explore **The Formatting Cellar**, a tutorial dungeon where every room demonstrates something you can reuse in your own adventure. The patron stresses that you should reference the source Markdown file [`adventure-template.md`](https://raw.githubusercontent.com/sunflowermans/digital-gm/refs/heads/main/docs/adventure-template.md) while navigating the cellar to reveal how it was created.
+A nervous patron hires the party to explore **The Formatting Cellar**, a tutorial dungeon where every room demonstrates something you can reuse in your own adventure. The patron stresses that you should reference the source Markdown file [`adventure-template.md`](https://raw.githubusercontent.com/sunflowermans/just-the-games-template/refs/heads/main/docs/make-your-own/adventure-template.md) while navigating the cellar to reveal how it was created.
 
 When questioned about the image displayed here, they explain that it is embedded using HTML. It's positioned to the right, the text wraps to the left, there's margins, and there's a maximum percentage width. The `<a>` anchor tag contains a hyperlink to the full-size image which opens in a new tab.
 
