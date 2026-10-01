@@ -8,10 +8,8 @@ aux_links:
   Template Repository: https://github.com/sunflowermans/just-the-games-template
   Live Example: https://games.puzzledungeon.com/
 
-# documents are under /docs
 defaults:
   - scope:
-      path: "docs"
       type: "pages"
     values:
       layout: "default"
